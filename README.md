@@ -6,4 +6,4 @@ This repository contains code generating the figures in
 
 ## How to Run
 Running `main.py` will generate and display the figures specified in `figure_list`.  
-To obtain a smooth curve, one needs to adjust the number of Monte Carlo runs, `n_trial`, in `config.py`.
+To obtain a smooth curve, one needs to adjust the number of Monte Carlo runs, `n_trials`, in `config.py`.
